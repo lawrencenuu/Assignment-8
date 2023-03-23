@@ -1,0 +1,30 @@
+#fav .FavSite{
+    list-style-type: none;
+    margin: 20;
+    padding: 0;
+    text-align: center;
+    
+}
+#fav .FavSite a{
+    text-decoration: underline;
+    color: lightgreen;
+}
+
+#fav .FavSite a:link{
+    color: lightgreen;
+}
+
+#fav .FavSite a:visited{
+    color: lightgreen;
+}
+
+#fav .FavSite a:hover{
+    color: red;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+.container{
+    margin: 20px;
+    text-align: center;
+}
+#bullet{
+    list-style-type: none;
+   
+}
+
+#bullet img:hover{
+    transform: scale(1.2);
+    transition: transform 1s ease-in-out; 
+}
+  
+
+  

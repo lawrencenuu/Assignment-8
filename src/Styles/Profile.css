@@ -1,0 +1,18 @@
+.profile{
+    width:40%;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.profile:hover{
+    border-color: red;
+    transition:  1s;
+}
+
+.profile:hover .title{
+    color: red;
+    transition: color 1s ease;
+    
+}
